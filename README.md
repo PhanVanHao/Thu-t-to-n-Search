@@ -1,2 +1,2 @@
-# Thu-t-to-n-Search
+# Thuật Toán Search
 Thuật toán Search
